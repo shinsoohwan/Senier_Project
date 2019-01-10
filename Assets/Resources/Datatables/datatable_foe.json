@@ -1,0 +1,26 @@
+[
+	{
+		"ClassID": 1,
+		"ClassName": "PlayerData",
+		"HP": 1,
+		"MoveSpeed": 5.0,
+		"HitScore": 0,
+		"KillScore": 0,
+		"Force": 10.0,
+		"Tactic": "",
+		"KillSE": "Fail",
+	}, 
+	{
+		"ClassID": 2,
+		"ClassName": "TestFoe",
+		"HP": 10,
+		"MoveSpeed": 5.0,
+		"HitScore": 10,
+		"KillScore": 100,
+		"Force": 100.0,
+		"Tactic": "Test",
+		"KillSE": "Kill",
+	}, 
+]
+
+

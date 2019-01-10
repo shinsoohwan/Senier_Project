@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fe01f23c738f64e46b730cfafdd17f9c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nathan Expandet
+  fontNames:
+  - Nathan Expandet
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d381f38630f510246a0764e65bf437bd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e9511eddd4bfbb64d89a1d56e3580001
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nathan
+  fontNames:
+  - Nathan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4e39f8b63237f1240b8bfeefa28c3e4b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

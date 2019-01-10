@@ -1,0 +1,38 @@
+[
+	{
+		"ClassID": 1,
+		"ClassName": "Main",
+		"BGMInfo":
+		[
+			{"FileName":"BGMs/Title", "StartTime":0.0},
+		]
+	}, 
+	{
+		"ClassID": 2,
+		"ClassName": "Forest",
+		"BGMInfo":
+		[
+			{"FileName":"BGMs/Forest1", "StartTime":0.0},
+			{"FileName":"BGMs/Forest2", "StartTime":0.0},
+			{"FileName":"BGMs/Forest3", "StartTime":0.0},
+		]
+	}, 
+	{
+		"ClassID": 3,
+		"ClassName": "Mountain",
+		"BGMInfo":
+		[
+			{"FileName":"BGMs/Mountain1", "StartTime":0.0},
+		]
+	}, 
+	{
+		"ClassID": 4,
+		"ClassName": "City",
+		"BGMInfo":
+		[
+			{"FileName":"BGMs/City1", "StartTime":0.0},
+		]
+	}, 
+]
+
+
